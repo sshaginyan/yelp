@@ -1,0 +1,16 @@
+{
+  "name": "yelp",
+  "version": "1.0.0",
+  "description": "Latest Yelp API",
+  "main": "index.js",
+  "repository": "git@github.com:sshaginyan/yelp.git",
+  "author": "SShaginyan <SShaginyan@Gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "mocha": "^5.0.0"
+  }
+}
