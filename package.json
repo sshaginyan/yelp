@@ -2,7 +2,7 @@
   "name": "yelp",
   "version": "1.0.0",
   "description": "Latest Yelp API",
-  "main": "index.js",
+  "main": "src/index.js",
   "repository": "git@github.com:sshaginyan/yelp.git",
   "author": "SShaginyan <SShaginyan@Gmail.com>",
   "license": "MIT",
