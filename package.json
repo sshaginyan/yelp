@@ -11,6 +11,6 @@
     "test": "mocha"
   },
   "devDependencies": {
-    "mocha": "9.2.2"
+    "mocha": "5.0.0"
   }
 }
